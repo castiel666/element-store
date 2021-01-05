@@ -14,7 +14,7 @@
     "build": "node build/build.js"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "better-scroll": "^1.6.1",
     "eventsource-polyfill": "^0.9.6",
     "vue": "^2.5.2",
